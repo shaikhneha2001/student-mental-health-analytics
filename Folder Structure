@@ -1,0 +1,12 @@
+student-mental-health-analytics/
+│
+├── dataset/
+│   └── depression_student_dataset.csv
+│
+├── sql/
+│   └── student_analysis.sql
+│
+├── dashboard/
+│   └── dashboard_screenshot.png
+│
+└── README.md
