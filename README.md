@@ -112,3 +112,9 @@ Promote data-driven mental health planning
 
 Neha Rashid Shaikh
 Data Analyst | SQL | Power BI | Tableau | Python
+
+## 📊 Dashboard Preview
+
+</p><img width="1296" height="716" alt="tab+sql dashboard" src="https://github.com/user-attachments/assets/f6190ad1-590c-4e31-a291-374aed3c397a" width="800"/>
+
+
