@@ -1,13 +1,13 @@
 # student-mental-health-analytics
 SQL + Tableau based Data Analytics project analyzing student mental health trends.
 
-🔎 Project Overview
+# 🔎 Project Overview
 
 The Student Mental Health Analytics System analyzes student depression and stress patterns using SQL and data visualization tools.
 
 The project focuses on identifying high-risk students based on academic pressure, financial stress, sleep patterns, and other lifestyle factors to support data-driven intervention planning.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Database: MySQL
 
@@ -19,7 +19,7 @@ Language: SQL
 
 Dataset: Student Depression Dataset (CSV)
 
-📁 Project Structure
+# 📁 Project Structure
 student-mental-health-analytics
 │
 ├── dataset/
@@ -62,7 +62,7 @@ Financial stress vs depression
 
 High-risk student identification using CTE (MySQL 8+)
 
-📊 Key Insights
+# 📊 Key Insights
 
 High financial stress strongly correlates with depression.
 
@@ -84,7 +84,7 @@ WITH HighRiskStudents AS (
 SELECT COUNT(*) AS High_Risk_Count
 FROM HighRiskStudents;
 
-📌 Dashboard Features (Tableau)
+# 📌 Dashboard Features (Tableau)
 
 Depression distribution by gender
 
@@ -96,7 +96,7 @@ Academic pressure vs depression comparison
 
 Interactive filtering and drill-down analysis
 
-🎯 Project Objective
+# 🎯 Project Objective
 
 To leverage SQL-based analytics and data visualization tools to:
 
@@ -108,7 +108,7 @@ Support early intervention strategies
 
 Promote data-driven mental health planning
 
-👩‍💻 Author
+# 👩‍💻 Author
 
 Neha Rashid Shaikh
 Data Analyst | SQL | Power BI | Tableau | Python
